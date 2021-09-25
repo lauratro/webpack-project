@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("test"),console.log("It is a wizard"),console.log("human")})();
