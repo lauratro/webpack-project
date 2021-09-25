@@ -1,1 +1,1 @@
-export const wizard ="It is a variable"}
+export const wizard ="It is a wizard"
